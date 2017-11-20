@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/polylang"]
+	path = wp-content/plugins/polylang
+	url = https://github.com/projectestac/wordpress-polylang.git
